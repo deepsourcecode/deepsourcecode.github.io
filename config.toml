@@ -1,0 +1,43 @@
+baseURL = "https://www.deepsourcecode.io"
+languageCode = "zh-CN"
+title = "Deep Source Code"
+theme = "maupassant"
+googleAnalytics = "UA-67747174-1"
+preserveTaxonomyNames = true
+
+[author]
+  name = "AdolphLWQ"
+
+[params]
+  author = "AdolphLWQ"
+  subtitle = "专注于开源软件源代码阅读与分享"
+  keywords = "Deep Source Code，Golang，Etcd"
+  description = "专注于IT互联网，包括但不限于Golang、Python、项目管理、抖音分析、软件架构等"
+
+  busuanzi = true
+
+[[params.links]]
+  title = "Zhang Shaohua's Blog"
+  name = "Zhang Shaohua's Blog"
+  url = "https://zhangsh.io/"
+[[params.links]]
+  title = "QuanTalk"
+  name = "QuanTalk"
+  url = "https://adolphlwq.xyz/"
+[params.utteranc]
+    enable = true
+    repo = "deepsourcecode/comments"    # 存储评论的Repo，格式为 owner/repo
+    issueTerm = "pathname"  #表示你选择以那种方式让github issue的评论和你的文章关联。
+    theme = "github-light" # 样式主题，有github-light和github-dark两种
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "关于"
+    url = "/posts/project-introduction/"
+    weight = 2
+  [[menu.main]]
+    identifier = "archives"
+    name = "归档"
+    url = "/archives/"
+    weight = 3
