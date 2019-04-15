@@ -8,7 +8,7 @@ subtitle: "专注于开源软件源代码阅读与分享"
 description: "专注于开源软件源代码阅读与分享"
 keywords: "Deep Source Code，Golang，Etcd"
 author: DeepSourceCode
-language:
+language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
