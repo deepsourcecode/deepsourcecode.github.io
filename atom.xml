@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Deep Source Code</title>
+  
+  <subtitle>专注于开源软件源代码阅读与分享</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://deepsourcecode.io/"/>
+  <updated>2019-04-13T18:56:10.643Z</updated>
+  <id>https://deepsourcecode.io/</id>
+  
+  <author>
+    <name>DeepSourceCode</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>project introduction</title>
+    <link href="https://deepsourcecode.io/project-introduction/"/>
+    <id>https://deepsourcecode.io/project-introduction/</id>
+    <published>2019-04-13T16:04:16.000Z</published>
+    <updated>2019-04-13T18:56:10.643Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://images.unsplash.com/photo-1554644275-252855179fc9?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=1051&amp;q=80" alt="Deep Surfing the Source Code"></p><a id="more"></a><h2 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h2><p>DeepSourceCode项目来源于自己的灵感，作为一名软件工程师，<strong>源码的阅读和理解能力至关重要</strong>，鉴于此笔者于<code>2019.4.9</code>创建了此项目。</p><h2 id="愿景"><a href="#愿景" class="headerlink" title="愿景"></a>愿景</h2><ol><li>追求质量而不是数量</li><li><strong>深入阅读著名开源项目源码</strong></li><li>不会阅读项目的所有部分代码，而是分模块，有主次的阅读</li><li>更新频率不会很高，但是会坚持</li></ol><h2 id="图标"><a href="#图标" class="headerlink" title="图标"></a>图标</h2><p><img src="https://i.loli.net/2019/04/14/5cb22caa1973f.png" width="240" height="240" alt="Deep Source Code Logo" title="Deep Source Code Logo"></p><h2 id="GitHub"><a href="#GitHub" class="headerlink" title="GitHub"></a>GitHub</h2><p><a href="https://github.com/deepsourcecode" target="_blank" rel="noopener">DeepSourceCode Organization</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://images.unsplash.com/photo-1554644275-252855179fc9?ixlib=rb-1.2.1&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=1051&amp;amp;q=80&quot; alt=&quot;Deep Surfing the Source Code&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
